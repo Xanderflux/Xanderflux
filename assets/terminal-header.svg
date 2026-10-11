@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 304" role="img" aria-labelledby="title description">
-  <title id="title">Ademola M Adesoye</title>
-  <desc id="description">A modern terminal window introducing Ademola M Adesoye and pointing to projects below.</desc>
+  <title id="title">Ademola Adesoye</title>
+  <desc id="description">A modern terminal window introducing Ademola Adesoye and pointing to projects below.</desc>
   <rect x="1" y="1" width="958" height="302" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <path d="M17 1h926a16 16 0 0 1 16 16v37H1V17A16 16 0 0 1 17 1Z" fill="#161b22"/>
   <path d="M1 54h958" stroke="#30363d" stroke-width="2"/>
@@ -9,7 +9,7 @@
   <circle cx="69" cy="28" r="6" fill="#3fb950"/>
   <text x="480" y="34" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">xanderflux@github: ~</text>
   <text x="38" y="104" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ whoami</text>
-  <text x="38" y="158" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="39" font-weight="700">Ademola M Adesoye</text>
+  <text x="38" y="158" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="39" font-weight="700">Ademola Adesoye</text>
   <text x="38" y="202" fill="#a5b1bf" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">Projects, experiments, and the code behind them.</text>
   <text x="38" y="264" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ ls ~/work</text>
   <rect x="211" y="246" width="11" height="22" fill="#58a6ff"/>

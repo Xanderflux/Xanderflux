@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/terminal-header.svg" alt="Terminal introduction for Ademola M Adesoye" width="100%">
+  <img src="./assets/terminal-header.svg" alt="Terminal introduction for Ademola Adesoye" width="100%">
 </p>
 
 ## `$ cat about.md`
 
-Hi, I'm **Ademola M Adesoye**. This is my space for projects, experiments, and the code behind them.
+Hi, I'm **Ademola Adesoye**. This is my space for projects, experiments, and the code behind them.
 
 ## `$ ls ~/work`
 
